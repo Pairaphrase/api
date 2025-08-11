@@ -149,3 +149,6 @@ engine=googleAPI
 
 Response
 {"status": 200}
+
+Source:
+https://www.pairaphrase.com/translation-api-documentation/
